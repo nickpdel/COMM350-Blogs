@@ -2,9 +2,9 @@
 # This file contains configuration flags to customize your site
 #
 # Name of your site (displayed in the header)
-title: Nick Delaney's Blog
+title: Site Title
 # Short bio or description (displayed in the header)
-description: "Writing for the Digital Humanities" Blog.
+description: A Blog
 
 #
 # !! DON'T EDIT BELOW THIS MESSAGE
@@ -21,5 +21,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-theme: jekyll-theme-slate
